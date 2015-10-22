@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Web App Box",
+  "launch_path": "/index.html",
+  "description": "A modern front-end template",
+  "icons": {
+    "128": "/images/fav.png"
+  },
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Web App Box",
+      "description": "A modern front-end template"
+    }
+  }
+}

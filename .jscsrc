@@ -1,0 +1,5 @@
+{
+  "preset": "",
+  "disallowSpacesInAnonymousFunctionExpression": null,
+  "esnext": true
+}

@@ -1,0 +1,33 @@
+// /////////////////////////////
+// project fonts ///////////////
+// /////////////////////////////
+// ACLine
+@include font-face (ACline-Regular, '../../fonts/ACLineRegular/ACLineRegular', 300, normal);
+@mixin ACLine-Regular {
+	font-family: 'ACLine-Regular', arial, sans-serif;
+	font-weight: 300; font-style: normal;
+}
+// Comfortaa
+@include font-face (Comfortaa-Light, '../../fonts/Comfortaa/ComfortaaLight', 200, normal);
+@mixin Comfortaa-Light {
+	font-family: 'Comfortaa-Light', arial, sans-serif;
+	font-weight: 200; font-style: normal;
+}
+
+@include font-face (Comfortaa-Regular, '../../fonts/Comfortaa/ComfortaaRegular', 400, normal);
+@mixin Comfortaa-Regular {
+	font-family: 'Comfortaa-Regular', arial, sans-serif;
+	font-weight: 400; font-style: normal;
+}
+
+@include font-face (Comfortaa-Bold, '../../fonts/Comfortaa/ComfortaaBold', 600, normal);
+@mixin Comfortaa-Bold {
+	font-family: 'Comfortaa-Bold', arial, sans-serif;
+	font-weight: 600; font-style: normal;
+}
+// OpenSans
+@include font-face (OpenSans-Regular, '../../fonts/OpenSansRegular/OpenSansRegular', 400, normal);
+@mixin OpenSans-Regular {
+	font-family: 'OpenSans-Regular', arial, sans-serif;
+	font-weight: 400; font-style: normal;
+}
